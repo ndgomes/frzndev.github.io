@@ -27,11 +27,11 @@ function App() {
                   <br />
                   <span style={{ color: "#FF79C6" }}>const</span>{" "}
                   <span style={{ color: "#fff" }}>github</span> ={" "}
-                  <span style={{ color: "#2d9f8e" }}>`https://github.com/</span>
+                  <span style={{ color: "#2d9f8e" }}>"https://github.com/</span>
                   <span style={{ color: "#ce9d64" }}>
                     $&#123;userName&#125;
                   </span>
-                  <span style={{ color: "#2d9f8e" }}>`</span>;
+                  <span style={{ color: "#2d9f8e" }}>"</span>;
                 </p>
                 <p>
                   <span style={{ color: "#FF79C6" }}>function</span>{" "}
