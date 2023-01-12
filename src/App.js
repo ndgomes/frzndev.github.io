@@ -23,7 +23,7 @@ function App() {
                 <p>
                   <span style={{ color: "#FF79C6" }}>const</span>{" "}
                   <span style={{ color: "#fff" }}>email</span> ={" "}
-                  <span style={{ color: "#2d9f8e" }}>"fryzenn@gmail.com"</span>;
+                  <span style={{ color: "#2d9f8e" }}>"nuno98gomes@gmail.com"</span>;
                   <br />
                   <span style={{ color: "#FF79C6" }}>const</span>{" "}
                   <span style={{ color: "#fff" }}>github</span> ={" "}
